@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="57e7e5ec-56a5-47d3-b48a-1b918746b604" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Wine-Quality-Pridiction.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Major Project Dataset (Wine Classification).csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+    <list default="true" id="57e7e5ec-56a5-47d3-b48a-1b918746b604" name="Changes" comment="files created">
+      <change afterPath="$PROJECT_DIR$/wine_quality_pridiction.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -231,11 +225,32 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1712475870428</updated>
-      <workItem from="1712475871827" duration="2826000" />
+      <workItem from="1712475871827" duration="5538000" />
     </task>
+    <task id="LOCAL-00001" summary="files created">
+      <option name="closed" value="true" />
+      <created>1712478833704</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712478833704</updated>
+    </task>
+    <task id="LOCAL-00002" summary="files created">
+      <option name="closed" value="true" />
+      <created>1712479088560</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712479088560</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="files created" />
+    <option name="LAST_COMMIT_MESSAGE" value="files created" />
   </component>
 </project>
